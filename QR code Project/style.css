@@ -1,0 +1,31 @@
+.card{
+    height: 370px;
+    width: 202px;
+    /* border: 2px solid black; */
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px rgba(0.3, 0.3, 0.3, 0.3);
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    padding: 14px;
+    border-radius: 16px;
+    text-align: center;
+    /* padding-bottom: 0.5rem; */
+}
+body {
+    background-color:rgb(213, 225, 239);
+    min-height: 100vh;
+}
+img{
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+    
+}
+p{
+    font-size: 12px;
+}
+h3 {
+    color: #252D47;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
